@@ -6,7 +6,7 @@ import streamlit.components.v1 as components
 
 
 st.set_page_config(
-    page_title="血液検査所見フォーマッター",
+    page_title="血液検査所見変換アプリ",
     page_icon="🧪",
     layout="wide",
 )
